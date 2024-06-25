@@ -7,4 +7,3 @@ pandas
 logger
 termcolor
 timm
-os
